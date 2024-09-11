@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [mehereshubh@gmail.com](mehereshubh@gmail.com)
 - ⚡ Fun fact: I’m passionate about **coding** and love to explore **new technologies** in my free time!
 - 👨‍💻 All of my projects are available at [My GitHub Repo](https://github.com/Shubhechhamehere)
-Connect with me:
+
+##Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/shubhechha-mehere-78069b225/))
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhechhamehere)
 
-Languages and Tools:
+##Languages and Tools:
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
